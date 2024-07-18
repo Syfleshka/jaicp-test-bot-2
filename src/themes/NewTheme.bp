@@ -1,0 +1,12 @@
+{
+  "positions" : [ {
+    "id" : "/NewTheme",
+    "x" : 511,
+    "y" : 181
+  }, {
+    "id" : "/NewTheme/Start",
+    "name" : "Start",
+    "x" : 517,
+    "y" : 190
+  } ]
+}
